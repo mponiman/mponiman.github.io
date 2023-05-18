@@ -7,5 +7,6 @@ So far, these are the projects that I have done.
 | Project    | Software Used  |
 | :--        | :--            |
 | Covid-19 Data Exploration        | SQL (BigQueries), Tableau, Excel, VS Code |
+| Bike Sales                       | Excel, Word |
 | Instacart Market Basket Analysis | Machine learning, VS Code, Python |
 
